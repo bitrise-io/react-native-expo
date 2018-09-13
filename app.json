@@ -7,5 +7,7 @@
     "android": {
       "package": "com.yourcompany.yourappname"
     }
-  }
+  },
+  "name": "Awesome App Name",
+  "displayName": "Awesome App Display Name"
 }
