@@ -26,5 +26,7 @@
     "ios": {
       "supportsTablet": true
     }
-  }
+  },
+  "name": "Awesome App Name",
+  "displayName": "Awesome App Display Name"
 }
