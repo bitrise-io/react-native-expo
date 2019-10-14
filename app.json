@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Awesome App Name",
-    "slug": "awesome.app.name.birise",
+    "slug": "react-native-expo",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
