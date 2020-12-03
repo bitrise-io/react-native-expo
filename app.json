@@ -1,6 +1,5 @@
 {
   "expo": {
-    "sdkVersion": "27.0.0",
     "ios": {
       "bundleIdentifier": "com.yourcompany.yourappname"
     },
